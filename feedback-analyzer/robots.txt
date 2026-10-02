@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /backend/
+Disallow: /config/
+Sitemap: https://seusite.com/sitemap.xml
